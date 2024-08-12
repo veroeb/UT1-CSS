@@ -1,0 +1,42 @@
+@media screen and (max-width: 1440px) {
+    body {
+        background-color: red;
+    }
+
+    .par {
+        font-size: 24px;
+    }
+
+    img {
+        width: 50%;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: green;
+    }
+
+    .par {
+        font-size: 18px;
+    }
+
+    img {
+        width: 70%;
+    }        
+}
+
+@media screen and (max-width: 425px) {
+    body {
+        background-color: blue;
+    }
+
+    .par {
+        font-size: 14px;
+    }
+
+    img {
+        width: 100%;
+    }
+    
+}
